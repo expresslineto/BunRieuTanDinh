@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BunRieuTanDinh/static/css/main.df78a8c9.chunk.css",
+    "main.js": "/BunRieuTanDinh/static/js/main.67fe61ed.chunk.js",
+    "main.js.map": "/BunRieuTanDinh/static/js/main.67fe61ed.chunk.js.map",
+    "runtime-main.js": "/BunRieuTanDinh/static/js/runtime-main.99cfeb34.js",
+    "runtime-main.js.map": "/BunRieuTanDinh/static/js/runtime-main.99cfeb34.js.map",
+    "static/js/2.f50162b3.chunk.js": "/BunRieuTanDinh/static/js/2.f50162b3.chunk.js",
+    "static/js/2.f50162b3.chunk.js.map": "/BunRieuTanDinh/static/js/2.f50162b3.chunk.js.map",
+    "index.html": "/BunRieuTanDinh/index.html",
+    "precache-manifest.b9afafd31a93f3fe372ae7467e61d4c7.js": "/BunRieuTanDinh/precache-manifest.b9afafd31a93f3fe372ae7467e61d4c7.js",
+    "service-worker.js": "/BunRieuTanDinh/service-worker.js",
+    "static/css/main.df78a8c9.chunk.css.map": "/BunRieuTanDinh/static/css/main.df78a8c9.chunk.css.map",
+    "static/js/2.f50162b3.chunk.js.LICENSE.txt": "/BunRieuTanDinh/static/js/2.f50162b3.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/BunRieuTanDinh/static/media/logo.190869ac.jpg",
+    "static/media/page1.jpg": "/BunRieuTanDinh/static/media/page1.cb9f1e15.jpg",
+    "static/media/page2.jpg": "/BunRieuTanDinh/static/media/page2.4b0cbf8f.jpg",
+    "static/media/page3.jpg": "/BunRieuTanDinh/static/media/page3.a441a1bc.jpg",
+    "static/media/page4.jpg": "/BunRieuTanDinh/static/media/page4.bccd15b5.jpg",
+    "static/media/page5.jpg": "/BunRieuTanDinh/static/media/page5.971c5e29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99cfeb34.js",
+    "static/js/2.f50162b3.chunk.js",
+    "static/css/main.df78a8c9.chunk.css",
+    "static/js/main.67fe61ed.chunk.js"
+  ]
+}
