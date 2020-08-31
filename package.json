@@ -1,6 +1,6 @@
 {
-  "homepage": "http://expresslineto.github.io/BunRieuTanDinh",
-  "name": "bunrieuTanDinh",
+  "homepage": "http://expresslineto.github.io/bunRieuTanDinh",
+  "name": "bunRieuTanDinh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

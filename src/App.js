@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     margin: 0,
     display: "flex",
 
-    maxWidth: "auto",
+    maxWidth: "100%",
     backgroundColor: "white",
     alignItems: "center",
   },
@@ -32,7 +32,7 @@ function App() {
     <div className="App">
       <Paper>
       <Grid container>
-        <Grid xs={8}>   ``
+        <Grid xs={12}>   
           <figure className={classes.img}>
             <img
               className={classes.img}
